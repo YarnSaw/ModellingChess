@@ -11,5 +11,5 @@ Future plans include allowing black to have pieces other than just the black kin
 ## CONTRIBUTORS:
 - Ryan Saweczko
 - Aditi Srinivasan
-- Josh
+- Josh Yanowitz
 - Callum
