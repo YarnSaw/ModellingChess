@@ -1,13 +1,15 @@
-[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=314644&assignment_repo_type=GroupAssignmentRepo)
-
 # CISC/CMPE 204 Modelling Project
 
-Welcome to the major project for CISC/CMPE 204 (Fall 2020)!
+We worked to create a functional chess board, in which the white side can have any chess piece, and the black side is restricted to a single king. Our model is capable of determining if that king is in checkmate, stalemate, or neither. 
 
-Change this README.md file to summarize your project (few sentences at most), and provide pointers to the general structure of the repository. How you organize and build things (which files, how you structure things, etc) is entirely up to you! The only things you must keep in place are what is already listed in the **Structure** section below.
+It is also able to directly control how many of each white piece is available, using the options of having "exactly X number of Y piece", or "up to and including X number of Y piece".
 
-## Structure
+Future plans include allowing black to have pieces other than just the black king, but that depends on how much free time our group has
 
-* `documents`: Contains folders for both of your draft and final submissions. README.md files are included in both.
-* `run.py`: General wrapper script that you can choose to use or not. Only requirement is that you implement the one function inside of there for the auto-checks.
-* `test.py`: Run this file to confirm that your submission has everything required. This essentially just means it will check for the right files and sufficient theory size.
+
+
+## CONTRIBUTORS:
+- Ryan Saweczko
+- Aditi Srinivasan
+- Josh
+- Callum
